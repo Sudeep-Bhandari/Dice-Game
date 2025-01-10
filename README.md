@@ -17,10 +17,10 @@ A simple and fun dice game built using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Dice-Game.git
+   git clone https://github.com/Sudeep-Bhandari/Dice-Game.git
 2. Navigate to the project folder:
    ```bash
-   cd dice-game
+   cd Dice-Game
 3. Open index.html in your web browser to play the game.
 
 ## 🛠️ Technologies Used
@@ -38,4 +38,4 @@ A simple and fun dice game built using HTML, CSS, and JavaScript.
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
