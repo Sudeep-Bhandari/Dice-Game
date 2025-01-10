@@ -28,3 +28,14 @@ A simple and fun dice game built using HTML, CSS, and JavaScript.
 - **CSS**: For styling and layout.
 - **JavaScript**: For the game logic and interactivity.
 
+## How to Play
+1. Open the index.html file in your preferred web browser.
+2. Click the "Roll Dice" button to roll the dice.
+3. The dice outcomes for two players will be displayed.
+4. The player with the higher number wins!
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License.
