@@ -11,7 +11,7 @@ A simple and fun dice game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Live Demo](#) (http://127.0.0.1:5500/Dice-Game/index.html)
+[Live Demo](http://127.0.0.1:5500/Dice-Game/index.html)
 
 ## Installation
 
